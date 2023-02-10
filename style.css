@@ -2,25 +2,29 @@
     font-family: 'Raleway', sans-serif;
 }
 .carousel-item{
-    height: 300px;
+    height: 400px;
     background-position: center center;
 }
 
-.carousel-image-1 {
-    background-image: url('https://cdn.pixabay.com/photo/2017/01/11/00/29/sydney-1970604_960_720.jpg');
-    background-size: cover;           
-  }
-  
+.carousel-image-1{
+  background-image: url('https://www.kenduncan.com/wp-content/uploads/1970/01/NX3746OE.jpg');
+  background-size: cover;
+} 
 
 .carousel-image-2{
-    background-image: url('https://cdn.pixabay.com/photo/2017/01/11/00/29/sydney-1970604_960_720.jpg');
-    background-size: cover;
-  } 
+  background-image: url('https://www.kenduncan.com/wp-content/uploads/1970/01/VX1907OE.jpg');
+  background-size: cover;
+} 
 
-.carousel-image-3{
-    background-image: url('https://cdn.pixabay.com/photo/2017/01/11/00/29/sydney-1970604_960_720.jpg');
-    background-size: cover;
-  } 
+.carousel-image-3 {
+  background-image: url('https://www.panoramacruiseandtravel.com.au/cproot/28519/10/Australia-QLD-Gold-Coast_w1920_w2000.jpg');
+  background-size: cover;           
+}
+
+.carousel-image-4 {
+  background-image: url('https://thumbs.dreamstime.com/b/road-sign-over-sky-panorama-7980911.jpg');
+  background-size: cover;           
+}
 
 #about{
     min-height: 200px;
